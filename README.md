@@ -16,3 +16,7 @@ println(id)
 // NanoID(qVWKx3gE4vsndUGesNdTZ)
 
 ```
+
+# History
+
+This is a port of [JNanoId](https://github.com/aventrix/jnanoid), modified to return the random generator at each step.
