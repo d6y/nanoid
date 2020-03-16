@@ -1,3 +1,5 @@
+![Scala CI](https://github.com/d6y/nanoid/workflows/Scala%20CI/badge.svg)
+
 # Nano ID for Scala
 
 Scala 2 implementation of <https://github.com/ai/nanoid>
